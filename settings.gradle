@@ -1,0 +1,2 @@
+rootProject.name='MediastreamPlatformSDKAndroidSamples'
+include ':app'

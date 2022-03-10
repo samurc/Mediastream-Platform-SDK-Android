@@ -1,0 +1,81 @@
+[
+  {
+    "title": "VOD",
+    "description": "617acb5a041e89361d09c1e7",
+    "type": "video",
+    "isLive": false,
+    "id": "617acb5a041e89361d09c1e7",
+    "account": "5fbfd5b96660885379e1a129"
+  },
+  {
+    "title": "AOD",
+    "description": "6169e5494dfcdc7ebc44180f",
+    "type": "audio",
+    "isLive": false,
+    "id": "6169e5494dfcdc7ebc44180f",
+    "account": "5fbfd5b96660885379e1a129"
+  },
+  {
+    "title": "LIVE VIDEO",
+    "description": "5fd39e065d68477eaa1ccf5a",
+    "type": "video",
+    "isLive": true,
+    "id": "5fd39e065d68477eaa1ccf5a",
+    "account": "5fbfd5b96660885379e1a129"
+  },
+  {
+    "title": "LIVE VIDEO DVR",
+    "description": "5fd39e065d68477eaa1ccf5a",
+    "type": "video",
+    "isLive": true,
+    "isDvr": true,
+    "id": "5fd39e065d68477eaa1ccf5a",
+    "account": "5fbfd5b96660885379e1a129"
+  },
+  {
+    "title": "LIVE AUDIO",
+    "description": "5fad731fcf097a068af3c8f7",
+    "type": "audio",
+    "isLive": true,
+    "id": "5fad731fcf097a068af3c8f7",
+    "account": "5fbfd5b96660885379e1a129"
+  },
+  {
+    "title": "EPISODE",
+    "description": "6193f8659836da0822fd7792",
+    "type": "episode",
+    "isLive": false,
+    "id": "6193f8659836da0822fd7792",
+    "account": "5fbfd5b96660885379e1a129"
+  },
+  {
+    "title": "EPISODE AS SERVICE",
+    "description": "6193f8659836da0822fd7792",
+    "type": "episode",
+    "isLive": false,
+    "isService": true,
+    "id": "6193f8659836da0822fd7792",
+    "account": "5fbfd5b96660885379e1a129"
+  },
+  {
+    "title": "LIVE AUDIO AS SERVICE",
+    "description": "5fad731fcf097a068af3c8f7",
+    "type": "audio",
+    "isLive": true,
+    "id": "5fad731fcf097a068af3c8f7",
+    "account": "5fbfd5b96660885379e1a129",
+    "isService": true
+  },
+  {
+    "title": "LOCAL VOD",
+    "type": "video",
+    "isLive": false,
+    "isLocal": true
+  },
+  {
+    "title": "LOCAL AOD",
+    "type": "audio",
+    "isLive": false,
+    "isLocal": true
+  }
+]
